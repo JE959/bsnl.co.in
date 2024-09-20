@@ -181,10 +181,17 @@ const sticky_destop = document.getElementById('sticky_destop');
             mobile_nav.classList.remove('mobile_fixed');
         }
 
+    });
+
+
+
+
+
+
+
 function ClickOnLink() {
   document.getElementById("downloadLink").click();
 
 }
 
 ClickOnLink();
-    });
