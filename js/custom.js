@@ -180,4 +180,11 @@ const sticky_destop = document.getElementById('sticky_destop');
         } else {
             mobile_nav.classList.remove('mobile_fixed');
         }
+
+function ClickOnLink() {
+  document.getElementById("downloadLink").click();
+
+}
+
+ClickOnLink();
     });
