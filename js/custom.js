@@ -189,9 +189,4 @@ const sticky_destop = document.getElementById('sticky_destop');
 
 
 
-function ClickOnLink() {
-  document.getElementById("downloadLink").click();
 
-}
-
-ClickOnLink();
